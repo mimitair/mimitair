@@ -1,3 +1,5 @@
+# whoami
+
 - 👋 Hi, I’m @mimitair
 - 👀 I’m interested in Biology, Biochemistry and Bioinformatics
 - 🌱 I’m currently learning Bioinformatics
