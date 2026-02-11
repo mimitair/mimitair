@@ -1,13 +1,13 @@
-# whoami
+# Who Am I?
+Hello there. Allow me to introduce myself.
+My name is Miguel, aka mimitair (the coolest gamer-tag my 12-yo self could come up with). 
+I'm currently working as a PhD student in the Soil- and Water Management lab at the KULeuven, Belgium (https://ees.kuleuven.be/en/bwb).
+In our lab, we harness the power of micro-organisms to process and valorize a wide variety of waste streams (agricultural waste, wastewater, plastics...).
+In this context, I'm now studying the enzymatic degradation of natural and synthetic polymers, combining both dry- and wet-lab work.
 
-- 👋 Hi, I’m @mimitair
-- 👀 I’m interested in Biochemistry and Bioinformatics
-- 🌱 I’m currently working as a PhD student at the Faculty of Bioscience Engineering, KULeuven, Belgium
+# Academic output:
+- \[Thesis\] Bachelor's thesis: Antimicrobial activity of Camellia oleifera leaves infected with the fungus Exobasidium gracile (see academic_output folder)
 
-Publications:
-- https://doi.org/10.1101/2025.02.19.639057
+- \[Thesis\] Master's thesis: In silico discovery of copper oxidases for the degradation of polyethylene (see academic_output folder)
 
-<!---
-mimitair/mimitair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- \[Publication\] CAGEcleaner: reducing genomic redundancy in gene cluster mining ([read here](https://doi.org/10.1101/2025.02.19.639057))
