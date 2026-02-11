@@ -6,8 +6,23 @@ In our lab, we harness the power of micro-organisms to process and valorize a wi
 In this context, I'm now studying the enzymatic degradation of natural and synthetic polymers, combining both dry- and wet-lab work.
 
 # Academic output
-- \[Thesis\] Bachelor's thesis: Antimicrobial activity of Camellia oleifera leaves infected with the fungus Exobasidium gracile (see academic_output folder)
+- **Bachelor's thesis**
+     
+    Antimicrobial activity of Camellia oleifera leaves infected with the fungus Exobasidium gracile (see academic_output folder)
 
-- \[Thesis\] Master's thesis: In silico discovery of copper oxidases for the degradation of polyethylene (see academic_output folder)
+- **Master's Thesis** 
 
-- \[Publication\] CAGEcleaner: reducing genomic redundancy in gene cluster mining ([read here](https://doi.org/10.1101/2025.02.19.639057))
+    In silico discovery of copper oxidases for the degradation of polyethylene (see academic_output folder)
+
+- **Publication** 
+
+    CAGEcleaner: reducing genomic redundancy in gene cluster mining. (Full text can be found [here](https://doi.org/10.1101/2025.02.19.639057)).
+
+# Software
+- **CAGEcleaner** ![Static Badge](https://img.shields.io/badge/python-780000) ![Static Badge](https://img.shields.io/badge/bash-003049) 
+
+    Tool to filter redundancy in gene cluster mining hits by dereplication of host genomes and/or genomic region. Can be seen as a complementary tool for [cblaster](https://github.com/gamcil/cblaster.git). Repository can be found [here](https://github.com/LucoDevro/CAGEcleaner.git).
+
+- **biolib** ![Static Badge](https://img.shields.io/badge/python-780000)
+
+    General-purpose library for common bioinformatics tasks. Repository can be found [here](https://github.com/mimitair/biolib.git). 
